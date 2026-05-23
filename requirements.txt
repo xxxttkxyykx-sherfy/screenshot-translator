@@ -1,0 +1,4 @@
+PyQt6>=6.4.0
+mss>=9.0.1
+requests>=2.31.0
+pyobjc-framework-Cocoa>=9.0
